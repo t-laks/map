@@ -1,9 +1,0 @@
-public class HelloWorld{
-
-  public static void mian(String args[]_ {
-  System.out.println("Hello Wolrd!"); System.out.println("2");
-  System.out.println("This comment is made from amane's computer");
-  System.out.println("This comment is used to call 'pull request'");
-  
-  }
-}
